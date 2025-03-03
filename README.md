@@ -32,7 +32,7 @@ Linux：Shell clash、Clash For Windows、clash-verge-rev和FLClash的Linux版�
 4) 想要买不限制设备数目的：SpeedCAT、Kycloud、Cyanmori、一云梯       
 
 
-## 一、LonelyDance(39/月200G) 
+## 一、LonelyDance(18/月200G) 
 
 深港IEPL内网专线ss协议机场，小众精品机场。相对低调。人少，体验还不错,速度很快，延迟较低，稳定性不错，流媒体还可以。老板说是一线机场发展的。有118一年200G的可以做备用。
 
